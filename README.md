@@ -18,8 +18,8 @@
 ### 👨‍💻 About Me
 
 - 🚀 **Back-End Engineer with 4+ years of Python experience**, specializing in designing, optimizing, and scaling production APIs and microservice architectures.
-- 💼 Previously worked as a **Back-End Developer at FunFluen**, where I engineered and optimized **FastAPI** services for NLP workloads, implemented automated unit test suites, built **CI/CD** deployment pipelines, and administered **Linux** production servers.
-- 🎓 **M.Sc. Candidate in Computer Networks** (Islamic Azad University), researching **performance optimization of API authorization mechanisms in microservice architectures** (OAuth 2.0, JWT, PASETO, Open Policy Agent, Zero-Trust security, and token validation caching).
+- 💼 Previously worked as a **Back-End Developer at FunFluen**, where I engineered and optimized **FastAPI** services for NLP and **stripe** payment workloads, implemented automated unit test suites, built **CI/CD** deployment pipelines, and administered **Linux** production servers.
+- 🎓 **M.Sc. Candidate in Computer Networks** (Azad University), researching **performance optimization of API authorization mechanisms in microservice architectures** (OAuth 2.0, JWT, Open Policy Agent, Zero-Trust security, and token validation caching).
 - 🛠️ Passionate about **Clean Code, SOLID principles, Design Patterns, and distributed systems performance**.
 
 ---
@@ -34,8 +34,8 @@
 
 #### Backend Frameworks & APIs
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/-Django%20REST-A30000?style=flat-square&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=Pydantic&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=OpenAPI%20Initiative&logoColor=white)
@@ -44,12 +44,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=Kibana&logoColor=white)
 
 #### OS, DevOps & Infrastructure
-![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=Linux&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
@@ -65,6 +63,14 @@
 
 ---
 
+### ⚡ Recent GitHub Activity
+
+<!-- ACTIVITY:START -->
+- Exploring distributed systems security, microservice API authorization, and Python backend performance.
+<!-- ACTIVITY:END -->
+
+---
+
 ### 🏗️ Core Engineering & Research Focus
 
 - **API & Microservices Architecture:** RESTful APIs, gRPC, API Gateways, Service Mesh patterns, and asynchronous task processing.
@@ -77,14 +83,6 @@
 
 - **📄 Conference Paper (Civilica):** *Architectural Patterns and Performance Optimization of Authorization Mechanisms in Microservices: A Comprehensive Analysis of OAuth 2.0 and JWT* — 9th International Conference on IT, Computer & Telecommunications Engineering.
 - **🛠️ Open Source Contributions:** Contributor to [`razbuild/raztodo`](https://github.com/razbuild/raztodo) (a local-first Python task manager for developers) and personal web/engineering projects like [`SudoExplainBlog-Frontend`](https://github.com/AminodinAkbari/SudoExplainBlog-Frontend).
-
----
-
-### ⚡ Recent GitHub Activity
-
-<!-- ACTIVITY:START -->
-- Exploring distributed systems security, microservice API authorization, and Python backend performance.
-<!-- ACTIVITY:END -->
 
 ---
 
